@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Campuran_App</string>
+    <string name="count_score">Count Score</string>
+    <string name="konversi_suhu">Konversi Suhu</string>
+    <string name="web_view">Web View</string>
+    <string name="kalkulator">Kalkulator</string>
+    <string name="hitung_berat_badan">Hitung Berat Badan</string>
+</resources>
